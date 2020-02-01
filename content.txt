@@ -1,4 +1,4 @@
-Archery Academy 
+Archery Academy
 528 Nock Point Ln
 Tacoma, WA 98412
 archery-education@example.com
@@ -11,7 +11,7 @@ Services:
 Equipment will be provided with exception of safety kit.
 		Cost: $120/month
 		Schedule: Mondays and Wednesdays, 4-5pm
-		Prerequisite:   Interest in learning about the sport of archery. Minimum age  8 years old or 7 w/ pre-evaluation.
+		Prerequisite:   Interest in learning about the sport of archery. Age: Minimum age  8 years old or 7 w/ pre-evaluation.
 
 		Name: A102 Intermediate Archery
 		Description: A102 is an intermediate archery course that focuses on intermediate archery safety, form, and introduces new equipment styles of shooting Recurve and Compound bows. Fun games and form reinforcement techniques are emphasized in this class.
