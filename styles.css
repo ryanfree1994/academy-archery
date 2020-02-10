@@ -120,6 +120,7 @@ h2{
 
 footer{
   background-color: #03A3DF;
+  clear: both;
 }
 
 .footer-logo{
@@ -139,7 +140,6 @@ footer div{
   font-weight: regular;
   font-size: 17px;
   text-align: center;
-  float: clear;
 }
 
 .grid-footer div{
@@ -189,7 +189,7 @@ body div ul li{
 }
 
 .container{
-    background-color: #FBEEC1;
+    background-color: #ecb722;
     align-items: center;
     display: flex;
     flex-direction: row;
@@ -198,9 +198,58 @@ body div ul li{
     float: left;
   }
 
-  .box{
-    border: 3px solid black;
-    margin: 1rem;
-    padding: 1rem;
-    width: 50%;
+.h2-container{
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.box{
+  border: 3px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  width: 100%;
   }
+
+.photo-aside{
+  color: #ecb722;
+  float: right;
+  background-color: #444444;
+  width: 50%
+}
+
+.figure-aside{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+div figure img{
+  width: 100%;
+}
+
+figcaption{
+  text-align: center;
+  font-size: 24px;
+  font-family: arial;
+  color: #ecb722
+}
+
+.callouts-aside{
+  color: #03A3DF;
+  font-family: arial;
+  font-weight: regular;
+  float: right;
+  width: 50%;
+  padding: 1em;
+}
+
+.quote{
+  font-size: 30px;
+  padding: 1em;
+}
+
+.name{
+  font-size: 14px;
+  padding-left: 2em;
+}
