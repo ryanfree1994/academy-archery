@@ -253,3 +253,10 @@ figcaption{
   font-size: 14px;
   padding-left: 2em;
 }
+
+.about-content{
+  padding: 1em 3em 1em 3em;
+  font-family: arial;
+  font-weight: regular;
+  font-size: 17px;
+}
