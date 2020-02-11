@@ -92,7 +92,6 @@ h2{
   display: grid;
   grid-gap: 20px 30px;
   background-color: #1b447f;
-  grid-template-columns: repeat(auto-fill, minmax(50%; 50%));
   clear: both;
   justify-content: space-evenly;
   float: left;
