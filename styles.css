@@ -4,7 +4,7 @@
 
 header{
   background-color: #03A3DF;
-  color: #ffffff;
+  color: #000000;
   padding: 0px 0px 3px 0px;
 }
 
@@ -43,7 +43,7 @@ nav li{
   text-decoration: none;
   font-family: arial;
   font-weight: bold;
-  color: #ffffff;
+  color: #000000;
   display: inline;
   padding-right: 5px;
 }
@@ -54,7 +54,7 @@ nav li a{
   font-family: arial;
   font-size: 14pt;
   font-weight: bold;
-  color: #ffffff;
+  color: #000000;
 }
 
 nav li a:hover{
